@@ -1,0 +1,49 @@
+.container{
+  text-align: center;
+  margin: auto;
+  margin-top: 0%;
+  background-color: #FFE15D;
+  padding:5%;
+  padding-top: 1%;
+}
+
+.hero-image{
+  width:200px;
+  height:200px;
+  margin:5%;
+}
+
+.dice-image{
+  width:30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px 10px grey;
+}
+
+.hero1,.hero2{
+  padding:5%;
+  margin:5%;
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: white;
+}
+
+
+.body{
+  background-color: #432C7A;
+}
+
+.content{
+  font-size: 3rem;
+  font-weight: bold;
+  color: purple;
+}
+
+#header1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+  font-weight: bold;
+  color: red;
+  margin-top: 0%;
+}
